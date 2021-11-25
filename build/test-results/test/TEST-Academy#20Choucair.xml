@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Academy Choucair" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-25T21:44:26" hostname="DESKTOP-12DNPFK" time="31.183">
+  <properties/>
+  <testcase name="Search for a automation course" classname="Academy Choucair" time="31.183"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@3bcadd0d
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@637621bc
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@765938d6
+nov. 25, 2021 4:44:28 P. M. org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, chrome.switches: --start-maximized, goog:chromeOptions: {args: [--start-maximized], extensions: []}, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
+Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 2063
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+nov. 25, 2021 4:44:32 P. M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Diana wants to learn automation at the Academy Choucair
+| strUser | strPassword |
+| 1090501152 | Choucair2021* | [Diana open up [Diana opens the Choucair academy page]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Diana wants to learn automation at the Academy Choucair
+| strUser | strPassword |
+| 1090501152 | Choucair2021* | [Diana open up [Diana opens the Choucair academy page]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@19367e70
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@55b8c77
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Diana wants to learn automation at the Academy Choucair
+| strUser | strPassword |
+| 1090501152 | Choucair2021* | [Diana open up [Diana opens the Choucair academy page], Diana login [Diana clicks on boton que abre el registro]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@2f5c6bd
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Diana wants to learn automation at the Academy Choucair
+| strUser | strPassword |
+| 1090501152 | Choucair2021* | [Diana open up [Diana opens the Choucair academy page], Diana login [Diana clicks on boton que abre el registro, Diana enters '1090501152' into ingresar usuario]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@5a0269d5
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Diana wants to learn automation at the Academy Choucair
+| strUser | strPassword |
+| 1090501152 | Choucair2021* | [Diana open up [Diana opens the Choucair academy page], Diana login [Diana clicks on boton que abre el registro, Diana enters '1090501152' into ingresar usuario, Diana enters 'Choucair2021*' into ingresar clave]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@18da132c
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Diana wants to learn automation at the Academy Choucair
+| strUser | strPassword |
+| 1090501152 | Choucair2021* | [Diana open up [Diana opens the Choucair academy page], Diana login [Diana clicks on boton que abre el registro, Diana enters '1090501152' into ingresar usuario, Diana enters 'Choucair2021*' into ingresar clave, Diana clicks on boton de acceso]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Diana wants to learn automation at the Academy Choucair
+| strUser | strPassword |
+| 1090501152 | Choucair2021* | [Diana open up [Diana opens the Choucair academy page], Diana login [Diana clicks on boton que abre el registro, Diana enters '1090501152' into ingresar usuario, Diana enters 'Choucair2021*' into ingresar clave, Diana clicks on boton de acceso]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Diana wants to learn automation at the Academy Choucair
+| strUser | strPassword |
+| 1090501152 | Choucair2021* | [Diana open up [Diana opens the Choucair academy page], Diana login [Diana clicks on boton que abre el registro, Diana enters '1090501152' into ingresar usuario, Diana enters 'Choucair2021*' into ingresar clave, Diana clicks on boton de acceso]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@32d25c87
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@e682153
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@a790e9
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Diana wants to learn automation at the Academy Choucair
+| strUser | strPassword |
+| 1090501152 | Choucair2021* | [Diana open up [Diana opens the Choucair academy page], Diana login [Diana clicks on boton que abre el registro, Diana enters '1090501152' into ingresar usuario, Diana enters 'Choucair2021*' into ingresar clave, Diana clicks on boton de acceso]], When she search for the course on the Choucair Academy platform
+| strCourse |
+| ISTQB Agile Tester Extension | [Diana search [Diana clicks on selecciona cursos y certificaciones]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@302e7b10
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Diana wants to learn automation at the Academy Choucair
+| strUser | strPassword |
+| 1090501152 | Choucair2021* | [Diana open up [Diana opens the Choucair academy page], Diana login [Diana clicks on boton que abre el registro, Diana enters '1090501152' into ingresar usuario, Diana enters 'Choucair2021*' into ingresar clave, Diana clicks on boton de acceso]], When she search for the course on the Choucair Academy platform
+| strCourse |
+| ISTQB Agile Tester Extension | [Diana search [Diana clicks on selecciona cursos y certificaciones, Diana clicks on Dar click para buscar el curso]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Diana wants to learn automation at the Academy Choucair
+| strUser | strPassword |
+| 1090501152 | Choucair2021* | [Diana open up [Diana opens the Choucair academy page], Diana login [Diana clicks on boton que abre el registro, Diana enters '1090501152' into ingresar usuario, Diana enters 'Choucair2021*' into ingresar clave, Diana clicks on boton de acceso]], When she search for the course on the Choucair Academy platform
+| strCourse |
+| ISTQB Agile Tester Extension | [Diana search [Diana clicks on selecciona cursos y certificaciones, Diana clicks on Dar click para buscar el curso]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Diana wants to learn automation at the Academy Choucair
+| strUser | strPassword |
+| 1090501152 | Choucair2021* | [Diana open up [Diana opens the Choucair academy page], Diana login [Diana clicks on boton que abre el registro, Diana enters '1090501152' into ingresar usuario, Diana enters 'Choucair2021*' into ingresar clave, Diana clicks on boton de acceso]], When she search for the course on the Choucair Academy platform
+| strCourse |
+| ISTQB Agile Tester Extension | [Diana search [Diana clicks on selecciona cursos y certificaciones, Diana clicks on Dar click para buscar el curso]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@75ff481b
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@4242bf26
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Diana wants to learn automation at the Academy Choucair
+| strUser | strPassword |
+| 1090501152 | Choucair2021* | [Diana open up [Diana opens the Choucair academy page], Diana login [Diana clicks on boton que abre el registro, Diana enters '1090501152' into ingresar usuario, Diana enters 'Choucair2021*' into ingresar clave, Diana clicks on boton de acceso]], When she search for the course on the Choucair Academy platform
+| strCourse |
+| ISTQB Agile Tester Extension | [Diana search [Diana clicks on selecciona cursos y certificaciones, Diana clicks on Dar click para buscar el curso]], Then she finds the course called
+| strCourse |
+| ISTQB Agile Tester Extension | [Then answer]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Diana wants to learn automation at the Academy Choucair
+| strUser | strPassword |
+| 1090501152 | Choucair2021* | [Diana open up [Diana opens the Choucair academy page], Diana login [Diana clicks on boton que abre el registro, Diana enters '1090501152' into ingresar usuario, Diana enters 'Choucair2021*' into ingresar clave, Diana clicks on boton de acceso]], When she search for the course on the Choucair Academy platform
+| strCourse |
+| ISTQB Agile Tester Extension | [Diana search [Diana clicks on selecciona cursos y certificaciones, Diana clicks on Dar click para buscar el curso]], Then she finds the course called
+| strCourse |
+| ISTQB Agile Tester Extension | [Then answer]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - testFinished: Search for a automation course:Given than Diana wants to learn automation at the Academy Choucair
+| strUser | strPassword |
+| 1090501152 | Choucair2021* | [Diana open up [Diana opens the Choucair academy page], Diana login [Diana clicks on boton que abre el registro, Diana enters '1090501152' into ingresar usuario, Diana enters 'Choucair2021*' into ingresar clave, Diana clicks on boton de acceso]], When she search for the course on the Choucair Academy platform
+| strCourse |
+| ISTQB Agile Tester Extension | [Diana search [Diana clicks on selecciona cursos y certificaciones, Diana clicks on Dar click para buscar el curso]], Then she finds the course called
+| strCourse |
+| ISTQB Agile Tester Extension | [Then answer]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - TestOutcomes: [Search for a automation course:Given than Diana wants to learn automation at the Academy Choucair
+| strUser | strPassword |
+| 1090501152 | Choucair2021* | [Diana open up [Diana opens the Choucair academy page], Diana login [Diana clicks on boton que abre el registro, Diana enters '1090501152' into ingresar usuario, Diana enters 'Choucair2021*' into ingresar clave, Diana clicks on boton de acceso]], When she search for the course on the Choucair Academy platform
+| strCourse |
+| ISTQB Agile Tester Extension | [Diana search [Diana clicks on selecciona cursos y certificaciones, Diana clicks on Dar click para buscar el curso]], Then she finds the course called
+| strCourse |
+| ISTQB Agile Tester Extension | [Then answer]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - Final testOutcomes: [Search for a automation course:Given than Diana wants to learn automation at the Academy Choucair
+| strUser | strPassword |
+| 1090501152 | Choucair2021* | [Diana open up [Diana opens the Choucair academy page], Diana login [Diana clicks on boton que abre el registro, Diana enters '1090501152' into ingresar usuario, Diana enters 'Choucair2021*' into ingresar clave, Diana clicks on boton de acceso]], When she search for the course on the Choucair Academy platform
+| strCourse |
+| ISTQB Agile Tester Extension | [Diana search [Diana clicks on selecciona cursos y certificaciones, Diana clicks on Dar click para buscar el curso]], Then she finds the course called
+| strCourse |
+| ISTQB Agile Tester Extension | [Then answer]]
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Search for a automation course
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
